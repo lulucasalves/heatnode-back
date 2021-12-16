@@ -1,5 +1,5 @@
 <h1>Heat Node</h1>
-<p>A api foi criada no evento da Rocketseat NLW 7, dentre suas funcionalidades é possivel: fazer login pela conta do github e enviar mensagens para outros usuários</p>
+<p>A api foi criada no evento da Rocketseat NLW 7, dentre suas funcionalidades é possivel: fazer login pela conta do github e enviar mensagens</p>
 <img src="https://github.com/lulucasalves/heatnode-api-back/blob/main/.github/img.png">
 <br/>
 <h2>Tecnologias útilizadas</h2>
