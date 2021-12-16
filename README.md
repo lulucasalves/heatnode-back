@@ -1,6 +1,6 @@
 <h1>Heat Node</h1>
 <p>A api foi criada no evento da Rocketseat NLW 7, dentre suas funcionalidades é possivel: fazer login pela conta do github e enviar mensagens para outros usuários</p>
-<img src="">
+<img src="https://github.com/lulucasalves/heatnode-api-back/blob/main/.github/img.png">
 <br/>
 <h2>Tecnologias útilizadas</h2>
 <li> <a href="https://nodejs.org/"> Node.js</li></a>
